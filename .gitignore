@@ -1,0 +1,12 @@
+# never commit dataset or training outputs
+data/
+runs/
+
+# jupyter + python junk
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.DS_Store

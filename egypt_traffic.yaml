@@ -1,6 +1,6 @@
 path: /kaggle/input/object-detection-for-autonomous-cars-egypt
 train: train/train/images
-val: train/train/images
+val: val/val/images
 test: test/test/images
 
 names:

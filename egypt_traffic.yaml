@@ -1,0 +1,18 @@
+path: /kaggle/input/object-detection-for-autonomous-cars-egypt
+train: train/train/images
+val: train/train/images
+test: test/test/images
+
+names:
+  0: car
+  1: bus
+  2: truck
+  3: motor
+  4: bike
+  5: rider
+  6: person
+  7: tuktuk
+  8: train
+  9: traffic_sign
+  10: traffic_light
+  11: banners

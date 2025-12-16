@@ -1,12 +1,10 @@
-# never commit dataset or training outputs
 data/
 runs/
-
-# jupyter + python junk
+kaggle.json
 .ipynb_checkpoints/
 __pycache__/
 *.pyc
+.env
 .venv/
 venv/
-.env
 .DS_Store
